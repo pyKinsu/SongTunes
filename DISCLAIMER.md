@@ -33,3 +33,7 @@ The developer is **not responsible for any misuse** of this project.
 ## Copyright Concern / Takedown
 If you are a copyright owner and believe your content is being accessed or used improperly through SongTunes,
 please contact the me, and the content or related functionality will be removed promptly.
+
+
+**Owner:** pykinsu  
+**Email:** *(pykinsu@outlook.com)*
